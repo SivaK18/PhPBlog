@@ -1,4 +1,4 @@
-** WEB Technology lab Project **
+**WEB Technology lab Project**
 
 <h1> Php based Blogging Site </h1>
 
